@@ -177,8 +177,8 @@ Sensitive information such as passwords, API keys, and database credentials will
 * [x] Create GitHub repository
 * [x] Clone repository locally
 * [x] Initial project documentation
-* [ ] Set up FastAPI backend
-* [ ] Create backend project structure
+* [x] Set up FastAPI backend
+* [x] Create backend project structure
 * [ ] Connect MySQL
 * [ ] Design database
 * [ ] Implement user registration
