@@ -179,8 +179,8 @@ Sensitive information such as passwords, API keys, and database credentials will
 * [x] Initial project documentation
 * [x] Set up FastAPI backend
 * [x] Create backend project structure
-* [ ] Connect MySQL
-* [ ] Design database
+* [x] Connect MySQL
+* [x] Design database
 * [ ] Implement user registration
 * [ ] Implement authentication
 * [ ] Set up React frontend
